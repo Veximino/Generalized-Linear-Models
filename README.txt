@@ -1,3 +1,4 @@
+Python - Juypter Notebook
 Generalized Linear Models
 
 MNIST training and testing dataset used alongside Logistic Regression to execute a system of basic 
